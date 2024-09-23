@@ -51,4 +51,4 @@ jobs:
           app-name: 'yo-test-linux-sidecar'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9AA28412BD6F40FA9A388CF7EDBC9218 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_961264CAB4314336BC1AB61B551A15E8 }}
